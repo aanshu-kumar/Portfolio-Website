@@ -12,9 +12,8 @@ export default {
       'black':"#000000"
     },
     backgroundImage:{
-      profile1:"url('src/assets/profile1.png')",
-      project1:"url('src/assets/project1.png')",
-      LinkdinIcon:"url('src/assets/LinkdinIcon.png')",
+      profile1:"url('/src/assets/profile1.png')",
+      project1:"url('/src/assets/project1.png')",
     }
   },
   plugins: [],
