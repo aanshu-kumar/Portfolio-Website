@@ -14,6 +14,7 @@ export default {
     backgroundImage:{
       profile1:"url('/src/assets/profile1.png')",
       project1:"url('/src/assets/project1.png')",
+      profile2:"url('/src/assets/profile2.png')"
     }
   },
   plugins: [],
