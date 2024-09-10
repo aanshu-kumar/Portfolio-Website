@@ -6,7 +6,7 @@ export default function Projects(){
             <div className="h-5 w-5"><img src={icon3} /></div>
             </div>
         <div className="row-span-5 row-start-2 w-[100%] m-auto h-[85%] bg-project1 bg-cover bg-no-repeat rounded-lg" style={{borderTopWidth:"0px"}}></div>
-        <div className="row-span-2 row-start-7 py-6 "><p>Medvisor</p></div>
+        <div className="row-span-2 row-start-7 py-6 "><p><a href="https://medvisor.vercel.app/" target="_blank">Medvisor</a></p></div>
         <div className="row-span-2 row-start-9 py-6"><p>Excalidraw Clone</p></div>
         <div className="row-span-2 row-start-11 py-6"><p>Medvisor</p></div>
 
