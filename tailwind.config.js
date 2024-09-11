@@ -9,7 +9,8 @@ export default {
     colors:{
       'Light-orange':'#E7D4B5',
       'light-gray':'#4c4c44',
-      'black':"#000000"
+      'black':"#000000",
+      'gray':'#808080	'
     },
     backgroundImage:{
       profile1:"url('/src/assets/profile1.png')",
