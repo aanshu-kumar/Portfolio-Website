@@ -1,8 +1,6 @@
-# React + Vite
+# Portfolio Website
+Hello,
+My name is Anshu Kumar. I am a Btech graduate majering in Computer Science from Dr. APJ Abdul Kalam Technical University. I graduated in the year 2024 with a strong foundation in computer science and Web development in MERN stack (MongoDb, Express, React.js, Node.js). This portfolio Website is a way to showcase my projects.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The followings is a list of all the projects that are currently present on the Website:-
+1. Medvisor - A Personal Assistent for your Health related queries.
